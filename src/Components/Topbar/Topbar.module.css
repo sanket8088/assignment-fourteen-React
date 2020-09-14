@@ -1,0 +1,19 @@
+.TopBar{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: #567086;
+  font-size: 24px;
+  color: white;
+  padding: 1.5% 2%;
+}
+
+.IconPack{
+ margin-right: 30px;
+ margin-left: 30px;
+ font-size: 36px;
+}
+
+.Description{
+  font-weight: 600;
+}

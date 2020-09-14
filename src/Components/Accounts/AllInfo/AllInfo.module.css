@@ -1,0 +1,89 @@
+.InfoMainContainer{
+    width: 64%;
+    margin-left: auto;
+    margin-right: auto;
+
+    margin-top: 1%;
+    display: flex;
+
+}
+.PicContainer{
+    width: 30%;
+    background-color: #435C70;
+    padding: 1% 2%;
+    margin-right: 2%;
+}
+.ChangeAvatar{
+    color: white;
+
+}
+.Image{
+    width: 100%;
+}
+
+.UploadButton{
+    width: 92%;
+    background-color: #F5A623;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+    padding: 2% 4%;
+    margin-top: 4%;
+    cursor: pointer;
+}
+
+.PersonalDetails{
+    margin-left: 26px;
+    padding: 2%;
+    color: white;
+    background-color: #435C70;
+    width: 80%;
+}
+
+.InfoTitle{
+    font-weight: 400;
+    margin-bottom: 0;
+}
+
+.InfoData{
+    width: 230%;
+    height: 45px;
+    background-color: #54657D;
+    border: none;
+    outline: none;
+}
+
+.PersonalInfoData{
+    margin-right: 30%;
+}
+
+.SingleInfoRow{
+    display: flex;
+    width: 100%;
+    
+}
+
+.PhoenInfo{
+    width: 207%;
+}
+
+.UpdateProfile{
+   background-color: #F5A623;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 42%;
+    margin-top: 5%;
+    padding: 2%;
+    margin-left: -2%;
+}
+
+.DeleteAccount{
+    background-color: #F5A623;
+    padding: 2%;
+    margin-top: 2%;
+    text-align: center;
+    width: 92.2%;
+}

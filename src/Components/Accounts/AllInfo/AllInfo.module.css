@@ -28,7 +28,7 @@
     font-size: 16px;
     font-weight: 500;
     color: white;
-    padding: 2% 4%;
+    padding: 5% 4%;
     margin-top: 4%;
     cursor: pointer;
 }
@@ -52,6 +52,8 @@
     background-color: #54657D;
     border: none;
     outline: none;
+    color: white;
+    font-size: 18px;    
 }
 
 .PersonalInfoData{
@@ -65,7 +67,7 @@
 }
 
 .PhoenInfo{
-    width: 207%;
+    width: 160%;
 }
 
 .UpdateProfile{
@@ -74,10 +76,10 @@
     text-align: center;
     justify-content: center;
     align-items: center;
-    width: 42%;
+   width: 43%;
     margin-top: 5%;
     padding: 2%;
-    margin-left: -2%;
+    margin-left: -8%;
 }
 
 .DeleteAccount{

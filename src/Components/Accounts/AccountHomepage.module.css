@@ -7,3 +7,37 @@
 .EmptyVoid{
     height: 40px;
 }
+
+.AccountList{
+    width: 60%;
+    background-color: #435C70;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1% 2%;
+    border-radius: 5px;
+
+}
+
+.ListAccounts{
+    font-size: 22px;
+    font-weight: 700;
+    color: white;
+}
+
+.Accounts{
+    font-size: 16px;
+    color: white;
+    margin-top: 2%;
+    margin-bottom: 1%;
+}
+
+.SelectDropdown{
+    width: 100%;
+    height: 35px;
+    background-color: #4E657A;
+    padding: 0 1%;
+    font-size: 16px;
+    color: #8AA9C2;
+    outline: none;
+    border: none;
+}
